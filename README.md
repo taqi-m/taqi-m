@@ -25,7 +25,7 @@ I'm a passionate **Software Engineering Student** with a focus on **Android deve
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=taqi-m&show_icons=true&theme=default" alt="Taqi's GitHub Stats" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=taqi-m&theme=default" alt="Taqi's GitHub Streak" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com?user=taqi-m&theme=default](https://streak-stats.demolab.com/?user=taqi-m)" alt="Taqi's GitHub Streak" />
 </p>
 
 ---
